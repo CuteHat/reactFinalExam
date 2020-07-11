@@ -1,0 +1,17 @@
+.login-container {
+  position: fixed;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 500px;
+  padding: 3%;
+}
+
+.job {
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.job-title {
+  margin-bottom: 30px;
+}
